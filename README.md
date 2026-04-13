@@ -1,8 +1,12 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Adriana Soares
 
-**`Desenvolvedora FullStack`**
+**`Ampliando Horizontes`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Engenheira de Segurança do Trabalho com mais de 15 anos de experiência em ambientes industriais e corporativos, atuando em programas legais (GRO, PGR, LTCAT, PPP), auditorias e treinamentos voltados para prevenção de riscos e promoção da saúde ocupacional.
+Recentemente, ampliei minha formação para a área de Análise de Dados, desenvolvendo competências em Python (pandas, numpy, matplotlib), SQL, Excel avançado e Power BI. Essa transição me permite unir minha vivência prática em segurança e meio ambiente com a capacidade de transformar indicadores em dashboards interativos, relatórios automatizados e insights estratégicos.
+Minha proposta de valor está em aplicar Data Analytics para otimizar processos, reduzir riscos e fortalecer a cultura de segurança e sustentabilidade. Tenho experiência internacional em ambiente fabril (Portugal), disciplina e capacidade de adaptação rápida a novos contextos e ferramentas digitais.
+Busco contribuir em projetos que envolvam indústria, energia, mineração, construção, logística e ESG, atuando como profissional que une expertise técnica em segurança ocupacional com análise avançada de dados para gerar impacto real.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
